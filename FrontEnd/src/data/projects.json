@@ -1,0 +1,73 @@
+[
+    {
+        "subHeading": [
+            {
+                "name": "DFX Profile"
+            },
+            {
+                "name": "Digital Futures"
+            },
+            {
+                "name": "July 2022- Aug 2022"
+            }
+        ],
+        "projectDetail": "Final Full-Stack Project (Twitter Clone)",
+        "learnings": [
+            {
+                "learning": "- Connected front-end and back-end with database"
+            },
+            {
+                "learning": "-  User was able to Sign-up, Log-in, Log-out and also post the posts on wall"
+            },
+            {
+                "learning": "-  On wall user can see his/her full name, user name and date along with post made by user"
+            },
+            {
+                "learning": "-  Front-end made with JS Library React"
+            },
+            {
+                "learning": "-  Back-end was made using Express framework"
+            },
+            {
+                "learning": "-  MongoDB NoSQL database has been used"
+            },
+            {
+                "learning": "-  Mocha and Chai used to test Back-end"
+            },
+            {
+                "learning": ""
+            }
+        ]
+    },
+    {
+        "subHeading": [
+            {
+                "name": "Puzzle Game Project"
+            },
+            {
+                "name": "d3t A Keywords Studio"
+            },
+            {
+                "name": "Mar 2022- Apr 2022"
+            }
+        ],
+        "projectDetail": "Client Project offered through Games Development Bootcamp (Puzzle game)",
+        "learnings": [
+            {
+                "learning": "- Participated as C# programmer (scripts for collection of key pieces)"
+            },
+            {
+                "learning": "-  Made pixel sprites for key pieces"
+            },
+            {
+                "learning": ""
+            },
+            {
+                "learning": ""
+            },
+            {
+                "learning": ""
+            }
+        ]
+    }
+]

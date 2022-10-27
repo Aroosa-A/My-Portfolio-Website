@@ -1,0 +1,25 @@
+.Resume {
+    color: rgb(212, 197, 197);
+    background-color: rgb(31, 30, 30);
+}
+
+#eachHeading {
+    text-align: center;
+    padding-top: 25px;
+    text-decoration: underline;
+    color: rgb(228, 147, 147);
+}
+
+#subHeading {
+    text-align: center;
+    padding-top: 25px;
+    text-decoration: underline;
+}
+
+#projectDetail {
+    margin-left: 15%;
+}
+
+#skills {
+    padding-top: 0px;
+}

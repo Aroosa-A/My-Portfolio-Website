@@ -1,0 +1,15 @@
+.About {
+    color: (212, 197, 197);
+    background-color: rgb(31, 30, 30);
+}
+
+#headings {
+    text-align: center;
+    padding-top: 25px;
+    text-decoration: underline;
+    color: rgb(228, 147, 147);
+}
+
+#detail {
+    text-align: center;
+}

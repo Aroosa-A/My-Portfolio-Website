@@ -1,0 +1,73 @@
+[
+    {
+        "headings": [
+            {
+                "name": "Modern Software Engineering"
+            },
+            {
+                "name": "Digital Futures"
+            },
+            {
+                "name": "Jun 2022 - Aug 2022"
+            }
+        ],
+        "Detail": "Excelled these skills with 12 Weeks Programme:",
+        "learnings": [
+            {
+                "learning": "- Full stack development"
+            },
+            {
+                "learning": "JavaScript, HTML-5, CSS-3"
+            },
+            {
+                "learning": "React, Express, Mocha&Chai, Java, MongoDB"
+            },
+            {
+                "learning": "Effective and active team-work"
+            },
+            {
+                "learning": "Agile/Scrum Methodology"
+            },
+            {
+                "learning": "Communication, Presentation, Time management skills"
+            },
+            {
+                "learning": "Microsoft Teams, Zoom"
+            }
+        ]
+    },
+    {
+        "headings": [
+            {
+                "name": "Games Development Bootcamp"
+            },
+            {
+                "name": "Skills City& In4.0 Group"
+            },
+            {
+                "name": "Feb 2022 - Apr 2022"
+            }
+        ],
+        "Detail": "Excelled these skills with 12 Weeks Programme:",
+        "learnings": [
+            {
+                "learning": "- Unity Engine"
+            },
+            {
+                "learning": "Programming scripts with C#"
+            },
+            {
+                "learning": "Effective and active team-work"
+            },
+            {
+                "learning": "Agile/Scrum Methodology"
+            },
+            {
+                "learning": "Communication, Presentation, Time management skills"
+            },
+            {
+                "learning": "Microsoft Teams, Zoom"
+            }
+        ]
+    }
+]
