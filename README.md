@@ -4,6 +4,12 @@ Portfolio-WebSite
 About the Project:
 -------
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=500&pause=500&background=000000F9&multiline=true&width=435&height=200&lines=Portfolio%7B;Home;Resume;Work;About+;%7D)](https://git.io/typing-svg)
+
+![project picture](/image/portfolio1.png)
+
+![project picture](/image/portfolio2.png)
+
+![project picture](/image/portfolio3.png)
 - Full stack project
 - This website is a portfolio of my work
 
@@ -50,13 +56,21 @@ Steps to follow in order to run this project locally on your machine
     ```
     mongodb://localhost:27017/PortFolio
     ```
+    ```
+    mongodb://localhost:27017/PortFolioTest
+    ```
 4. Run servers
 
     Open **Package.json** files from both *FRONTEND* and *BACKEND* folders and apply command
     ```
     npm start
     ```
+5. Test
 
+    You can run tests of both folders by opening integrated terminal from **Package.json** file and running this command in terminal
+    ```
+    npm test
+    ```
 Problem Statements:
 -----------------
 ### Problem
